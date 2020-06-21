@@ -1,0 +1,24 @@
+{
+    "name": "chame1e0n/pager",
+    "description": "A library to split results into multiple pages",
+    "keywords": ["pager", "paginator", "pagination"],
+    "homepage": "https://github.com/chame1e0n/pager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitalii Zinkov",
+            "email": "chameleon2803@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "chameleon2803@gmail.com"
+    },
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VZPager\\": "src/"
+        }
+    }
+}
