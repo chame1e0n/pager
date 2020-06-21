@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "VZPager\\": "src/"
+            "VZPager\\": "src/VZPager/"
         }
     }
 }
